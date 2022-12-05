@@ -1,4 +1,4 @@
-## [rsschool-cv](rsccool-cv)
+## [rsschool-cv](https://github.com/waffillka/rsschool-cv/tree/gh-pages)
 # George Sebik
 
 # My Contact Info
