@@ -1,16 +1,17 @@
+## [rsschool-cv](rsccool-cv)
 # George Sebik
 
 # My Contact Info
 
 
-* **E-mail:** [waffilka@gmail.com](waffilka@gmail.com)
+* **E-mail:** [waffilka@gmail.com]()
 * **LinkedIn:** [George Sebik](https://www.linkedin.com/in/waffillka/)
 * **GitHub:** [waffillka](https://github.com/waffillka)
 
 # Summary
 At the moment I have a year of commercial development in the back-end and worked a little with the front-end.
 My main goal is to get used to the Full-Stack .Net developer.
-From Rschool I want to get a strong base from which I can further develop in this direction. 
+From RSschool I want to get a strong base from which I can further develop in this direction. 
 I have experience in the form of three projects with different architectural solutions and technologies.
 I have little experience in developing in Angular (TypeScript) and also used JS, JQuery.
 
